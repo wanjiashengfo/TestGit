@@ -6,5 +6,6 @@ public class Happy {
 		System.out.println("22222");
 		System.out.println("5555");
 		System.out.println("00000");
+		System.out.println("11111");
 	}
 }	
